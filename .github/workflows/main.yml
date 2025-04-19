@@ -132,4 +132,4 @@ jobs:
           context: ./gateway/
           push: true
           # Тут вместо username должен быть ваш логин на Docker Hub
-          tags: noupsanges/taski_gateway:latest
+          tags: noupsange/taski_gateway:latest
